@@ -35,12 +35,7 @@ __PEÇA:__ modelo do item que se move no tabuleiro e armazena um número.
 ### Exemplo da Peça na Interface:
 <img src="./src/Imagens/peca_interface.png" align="left">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 # Tabuleiro
