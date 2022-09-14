@@ -46,8 +46,11 @@ __PEÇA:__ modelo do item base que armazena as peças, controla seus movimentos 
 
 ## Código
 
-<img src="./src/Imagens/tabuleiro1.png" align="left">
-<img src="./src/Imagens/tabuleiro2.png" align="right">
+<img src="./src/Imagens/tabuleiro1.png" align="center">
+<img src="./src/Imagens/tabuleiro2.png" align="center">
 
-### Exemplo da Peça na Interface:
-<img src="./src/Imagens/peca_interface.png" align="left">
+<br>
+
+### Exemplo do Tabuleiro na Interface
+<br>
+<img src="./src/Imagens/tabuleiro_interface.png" align="center">
